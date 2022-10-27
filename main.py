@@ -5,8 +5,8 @@
 # from yaml import SafeLoader
 
 import streamlit as st
-import streamlit_authenticator as stauth
-from  streamlit_authenticator import Authenticate
+# import streamlit_authenticator as stauth
+# from  streamlit_authenticator import Authenticate
 
 import hydralit_components as hc
 from collections import OrderedDict
